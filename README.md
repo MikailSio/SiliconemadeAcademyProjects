@@ -18,14 +18,14 @@ konularını uygulamalı olarak pekiştirmek amacıyla geliştirilmiştir.
 ### 🏫 Okul Yönetim Uygulaması
 Öğrenci, not, kitap ve adres yönetimi yapan bir console uygulaması.
 
-📂 Klasör:
+📂 Klasör:OkulYonetimUygulamasi/
 
 ---
 
 ### 🚗 Oto Galeri Uygulaması
 Araç kiralama ve galeri yönetimini simüle eden bir console otomasyon sistemi.
 
-📂 Klasör:
+📂 Klasör:OtoGaleriUygulamasi/
 
 ---
 
