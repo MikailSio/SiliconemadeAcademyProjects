@@ -1,13 +1,46 @@
-# Siliconemade Academy Projects
+# 🎓 Siliconemade Academy Projects
 
-Bu repo eğitim sürecinde geliştirdiğim C# console projelerini içerir.
+Bu repository, **Siliconmade Academy** sürecinde geliştirdiğim **C# Console Application** projelerini içermektedir.
 
-## Projeler
-- **OkulYonetimUygulamasi**
-  - Öğrenci / not / kitap / adres yönetimi
-  - LINQ ile filtreleme & sıralama
-  - Menü tabanlı console uygulaması
+Projeler;  
+- Nesne Yönelimli Programlama (OOP)  
+- LINQ kullanımı  
+- İş kuralı yönetimi  
+- Menü tabanlı kullanıcı etkileşimi  
+- Temiz ve sürdürülebilir kod yapısı  
 
-- **OtoGaleri**
-  - Araç ekleme/silme
-  - Listeleme / filtreleme
+konularını uygulamalı olarak pekiştirmek amacıyla geliştirilmiştir.
+
+---
+
+## 📁 Projeler
+
+### 🏫 Okul Yönetim Uygulaması
+Öğrenci, not, kitap ve adres yönetimi yapan bir console uygulaması.
+
+📂 Klasör:
+
+---
+
+### 🚗 Oto Galeri Uygulaması
+Araç kiralama ve galeri yönetimini simüle eden bir console otomasyon sistemi.
+
+📂 Klasör:
+
+---
+
+## ⚙️ Kullanılan Teknolojiler
+- C#
+- .NET Console Application
+- LINQ
+- Git & GitHub
+- Visual Studio
+
+---
+
+## 👤 Geliştirici
+**Mikail Sarpkaya**
+
+> Bu repository eğitim sürecinde geliştirilen projeleri içermektedir ve zamanla genişletilecektir.
+
+
